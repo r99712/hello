@@ -7,6 +7,6 @@
 #include <stdio.h>
 
 int main(int argc, char **argv){
-    printf("Robby Spayth\n");
+    printf("Robby Spayth\nElectrical Engineering\n");
     return 0;
 }
